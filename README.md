@@ -2,7 +2,7 @@
 
 A web app to calculate the number of alcohol units in your drinks based on drink size, quantity, and alcohol percentage.
 
-[![App Image](Non%20App/App%20Image.png)](https://kay-who-codes.github.io/Alcohol-Unit-Calculator)
+[![App Image](Non%20App/App%20Image.png)](https://kay-who-codes.github.io/Alcohol-Units-Calculator)
 
 ## Features
 
@@ -13,7 +13,7 @@ A web app to calculate the number of alcohol units in your drinks based on drink
 
 ## Usage
 
-1. Open the app in a browser - **[LINK](https://kay-who-codes.github.io/Alcohol-Unit-Calculator)**.
+1. Open the app in a browser - **[LINK](https://kay-who-codes.github.io/Alcohol-Units-Calculator)**.
 2. Select the **Drink Size** from the dropdown menu (e.g., Single Shot, Double Shot, 175ml, 330ml, etc.).
 3. Enter the **Quantity** of drinks you've consumed.
 4. Input the **Alcohol Percentage (% ABV)** of the drink.
