@@ -2,7 +2,7 @@
 
 A web app to calculate the number of alcohol units in your drinks based on drink size, quantity, and alcohol percentage.
 
-[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Alcohol-Unit-Calculator)
+[![App Image](Non%20App/App%20Image.png)](https://kay-who-codes.github.io/Alcohol-Unit-Calculator)
 
 ## Features
 
