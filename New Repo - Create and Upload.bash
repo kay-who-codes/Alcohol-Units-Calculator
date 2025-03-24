@@ -33,9 +33,9 @@ if [ "$http_code" -eq 200 ]; then
 else
     echo "Creating repository '$repo_name' on GitHub..."
     curl -s -X POST -H "Authorization: token $TOKEN" \
-         -H "Content-Type: application/json" \
-         -d "{\"name\": \"$repo_name\", \"private\": false}" \
-         "https://api.github.com/user/repos" > /dev/null
+     -H "Content-Type: application/json" \
+     -d "{\"name\": \"$repo_name\", \"private\": false}" \
+     "https://api.github.com/user/repos"
     echo "Repository created."
 
     # Enable GitHub Pages for the repository
