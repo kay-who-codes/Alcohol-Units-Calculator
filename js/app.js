@@ -31,8 +31,8 @@ function calculate() {
   const units = (totalVolume * alcoholPercentage) / 1000;
   alcoholUnits.textContent = units.toFixed(2);
 
-  // Calculate units from passout
-  const passoutUnits = 15 - units;
+  // Calculate units from blackout
+  const passoutUnits = 22 - units;
   unitsFromPassout.textContent = passoutUnits.toFixed(2);
 
   // Calculate equivalents
